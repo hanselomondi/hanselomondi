@@ -14,7 +14,7 @@ Currently a final year Computer Science student 🏫 from Nairobi, Kenya. My gro
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanselomondi&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanselomondi&layout=donut-vertical&theme=dark" alt="Top Languages" />
   </a>
 </p>
 
