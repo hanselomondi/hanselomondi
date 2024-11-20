@@ -18,3 +18,12 @@ Currently a final year Computer Science student 🏫 from Nairobi, Kenya. My gro
   </a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<div style="display: flex; gap: 30px;>
+  <a href="https://x.com/hanselomondi?t=89BHh6xG3huballxZhu-iw&s=09" target="_blank">
+    <img align="center" src="https://github.com/hussainweb/hussainweb/raw/main/icons/twitter.png" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/hansel-omondi-763324222/" target="_blank">
+    <img align="center" src="https://github.com/hussainweb/hussainweb/raw/main/icons/linkedin.png" alt="LinkedIn" height="30" width="40" />
+  </a>
+</div>
