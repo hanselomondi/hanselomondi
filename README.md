@@ -6,9 +6,12 @@ Currently a final year Computer Science student 🏫 from Nairobi, Kenya. My gro
 
 <h2 align="center">My Github Stats</h2>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=hanselomondi&show_icons=true&theme=dark&include_all_commits=true" alt="Hansel's GitHub stats" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hanselomondi" alt="GitHub Streak" />
   </a>
 </p>
 
